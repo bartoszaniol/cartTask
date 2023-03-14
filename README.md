@@ -8,3 +8,9 @@
  ```http
  https://dummyjson.com/docs/carts
 ```
+
+### Project hosted on:
+ ```http
+ https://cart-task-d12f8.web.app/
+```
+
